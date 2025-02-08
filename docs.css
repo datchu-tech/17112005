@@ -1,0 +1,110 @@
+.navbar .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar .nav-link:hover {
+  color: lightgray !important;
+}
+.portrait-item1 img {
+width: 230px;
+height: 425px;
+}
+.portrait-item2 img {
+  width: 230px;
+  height: 425px;
+  }
+  .portrait-item3 img {
+    width: 230px;
+    height: 425px;
+    }
+    .portrait-item4 img {
+      width: 230px;
+      height: 425px;
+      }
+      .main-header {
+        padding-top: 110px;
+        background: linear-gradient(to right, rgba(255,250,240,0.9), rgba(255,250,240,0.95));
+    }
+
+    .header-text {
+        position: relative;
+        padding: 2rem;
+    }
+
+    .header-text h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+        color: #2c3e50;
+        font-weight: 700;
+    }
+
+    .header-text p.quote {
+        font-size: 1.2rem;
+        color: #34495e;
+        font-style: italic;
+        position: relative;
+        padding: 1rem 0;
+    }
+
+    .header-text p.quote::before,
+    .header-text p.quote::after {
+        content: '"';
+        font-size: 2rem;
+        color: #7f8c8d;
+    }
+.background-section {
+  background: url('hinh-nen-mau-den-kute_112616986.png') no-repeat center center;
+  background-size: cover;
+  padding: 50px 0;
+  color: #fff;
+}
+.subcribe{
+  background-image: url(IMG_7588.png);
+  background-size: cover;
+  background-position: center;
+}
+.brand-icon img{
+  width:100px;
+  height:100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bachgao-section{
+  padding-top: 200px;
+}
+.bachgao-section{
+  background: url('tự\ sướng.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 50px 0;
+  color: #fff;
+}
+.font-1{
+  font-family:Lexend;
+  font-weight:400;
+}
+.favourite{
+  font-size: small;
+}
+.more-details::after {
+  content: "";
+  display: block;
+  width: 100px; /* Độ dài gạch */
+  height: 4px; /* Độ dày gạch */
+  background-color:#754E1A ; /* Màu gạch xanh */
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: auto;
+}
+/* fauni */
+/* contact */
+.background-contact{
+  background: url(290A3369-CF07-4D06-B8B7-2C9152B0AB35.jpeg) no-repeat center center;
+  background-size: cover;
+  padding: 50px 0;
+  color: #fff;
+}
+.background-contact{
+  padding-top: 230px;
+}
